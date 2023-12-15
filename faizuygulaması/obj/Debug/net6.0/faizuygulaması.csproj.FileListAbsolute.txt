@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\bin\Debug\net6.0\faizuygulaması.exe
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\bin\Debug\net6.0\faizuygulaması.deps.json
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\bin\Debug\net6.0\faizuygulaması.runtimeconfig.json
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\bin\Debug\net6.0\faizuygulaması.dll
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\bin\Debug\net6.0\faizuygulaması.pdb
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\obj\Debug\net6.0\faizuygulaması.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\obj\Debug\net6.0\faizuygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\obj\Debug\net6.0\faizuygulaması.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\obj\Debug\net6.0\faizuygulaması.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\obj\Debug\net6.0\faizuygulaması.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\obj\Debug\net6.0\faizuygulaması.dll
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\obj\Debug\net6.0\refint\faizuygulaması.dll
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\obj\Debug\net6.0\faizuygulaması.pdb
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\obj\Debug\net6.0\faizuygulaması.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\faizuygulaması\faizuygulaması\obj\Debug\net6.0\ref\faizuygulaması.dll
